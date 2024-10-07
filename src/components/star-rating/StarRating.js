@@ -3,7 +3,7 @@ import './styles.css';
 
 export const StarRating = ({ numOfStars = 5 }) => {
   const [rating, setRating] = useState(-1);
-  const [hover, setHover] = useState(-1);;
+  const [hover, setHover] = useState(-1);
 
   return (
     <div className="container">
