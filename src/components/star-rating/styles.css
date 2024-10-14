@@ -9,15 +9,3 @@
   display: flex;
   align-items: center;
 }
-
-.active-star {
-  color: orange;
-  font-size: 40px;
-  cursor: pointer;
-}
-
-.inactive-star {
-  color: gray;
-  font-size: 40px;
-  cursor: default;
-}
